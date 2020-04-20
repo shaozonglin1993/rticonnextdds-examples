@@ -1,0 +1,5 @@
+# This project has a specific makefile / solution
+!*.sln
+!*.vcxproj
+!makefile*
+Foo.idl
